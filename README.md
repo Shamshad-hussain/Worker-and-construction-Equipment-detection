@@ -56,3 +56,19 @@ The system is designed as a foundation for advancing from **reactive detection**
 ├── .gitignore # Ignore large files
 └── docs/
 └── sample_output.jpg
+
+
+## Visual Representation
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/11e45d57-97da-4d5b-b31a-2c189798649b" />
+
+
+
+
+
+
+
+
+
+
+
+
