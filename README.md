@@ -101,20 +101,21 @@ The system is designed as a foundation for advancing from **reactive detection**
 
 
 ---
+## Test
 
-## 📂 Project Structure
-├── train_model.py # Training script
-├── data.yaml # Dataset configuration
-├── README.md # Project documentation
-├── .gitignore # Ignore large files
-└── docs/
-└── sample_output.jpg
+<img width="2250" height="1500" alt="BoxF1_curve" src="https://github.com/user-attachments/assets/9791f44b-3710-4682-8c68-35e12de97fd6" />
 
+<img width="2250" height="1500" alt="BoxP_curve" src="https://github.com/user-attachments/assets/38e68f4e-9861-4344-9d06-a3f9fce6f60a" />
 
+<img width="2250" height="1500" alt="BoxPR_curve" src="https://github.com/user-attachments/assets/c13fb67d-07f2-4ebc-a401-ba0890543395" />
 
+<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/99fea87d-8807-48e5-bfe8-f03e0864f2c0" />
 
+<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/8e10091a-0055-4fd5-ba74-44a8da8e4446" />
 
+<img width="1920" height="1920" alt="val_batch0_labels" src="https://github.com/user-attachments/assets/3343ac23-b215-44eb-9ca9-aedf0a40f1aa" />
 
+<img width="1920" height="1920" alt="val_batch2_labels" src="https://github.com/user-attachments/assets/d80ffd48-4101-4570-8a98-a42be8e1b753" />
 
 
 
