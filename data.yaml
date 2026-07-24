@@ -1,0 +1,13 @@
+train: D:\model train0.2\CSD.5 DS\train
+val: D:\model train0.2\CSD.5 DS\valid
+test: D:\model train0.2\CSD.5 DS\test
+
+nc: 5
+names: ['bulldozer', 'concrete mixer', 'dump truck', 'excavator', 'worker']
+
+roboflow:
+  workspace: shahs-workspace-bp8wq
+  project: csd-5-o5msq
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/shahs-workspace-bp8wq/csd-5-o5msq/1
